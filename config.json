@@ -1,0 +1,5 @@
+{
+    "passwordforserver" : "mypassword",
+    "TWILIO_ACCOUNT_SID" : "TAS",
+    "TWILIO_AUTH_TOKEN" : "TAT"
+}
